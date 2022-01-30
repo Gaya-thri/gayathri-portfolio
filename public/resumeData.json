@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Gayathri Cheedella",
+    "occupation": "Developer",
+    "description": "I am developer at Tata Consultancy Services",
+    "image": "d071138d-d4ad-43e4-bd25-e1723df1e1da.jpg",
+    "bio": "My name is Gayathri Cheedella,Currently I'm working at TCS. I focused on crafting great web applications. Coding have been my passion.I enjoy creating beautifully designed, intuitive and functional websites.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "gayathricheeddella77217@gmail.com",
+    "phone": "+91 8919381123",
+    "address": {
+      "street": "Srimanaryana Colony",
+      "city": "Kodad, Suryapet Dist",
+      "state": "Telangana",
+      "zip": "508206"
+    },
+    "website": "https://drive.google.com/file/d/1xgDX6qHb3HiRpl0acbvZz0p0U_vbsMSQ/view?usp=sharing", 
+    "resumedownload": "https://drive.google.com/file/d/1xgDX6qHb3HiRpl0acbvZz0p0U_vbsMSQ/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/gayathri.cheedella.92/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gayathri-cheedella-55b89a1ab",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/gayathricheedella/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Gaya-thri",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here are my education qualition and experience",
+    "education": [
+      {
+        "school": "Malla Reddy Enginnering College For Women",
+        "degree": "Bachelor's Degree, ECE",
+        "graduated": "August 2020 - Graduated with Distinction",
+        "description": "I have achieved 80% in my Bachelor's. As a student I am a good learner and merit student.I have also participated in so many software and hardware(robotics) hackathons."
+      }
+    ],
+    "work": [
+      {
+        "company": "TCS",
+        "title": "Developer",
+        "years": "Jan 2021 - Present",
+        "description": "As developer in TCS I have developed two robos(automation) using selenium and vb.net and also working on various desktop and web applications."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "C#",
+        "level": "80%"
+      },
+      {
+        "name": "vb.net",
+        "level": "80%"
+      },
+      {
+          "name": "Selenium",
+          "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Air-bnb clone",
+        "category": "Air-bnb clone which built with react",
+        "image": "2022-01-30(2).png",
+        "url": "https://react-airbnb.stackblitz.io/"
+      },
+      {
+        "title": "covid19 tracker",
+        "category": "covid19 tracker built with ReactJS",
+        "image": "Screenshot (3).png",
+        "url": "https://github.com/Gaya-thri/react-covid19tracker"
+      },
+      {
+        "title": "imessage-clone",
+        "category": "imessage-clone built with ReactJS, Redux",
+        "image": "Screenshot (4).png",
+        "url": "https://github.com/Gaya-thri/imessage-clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
